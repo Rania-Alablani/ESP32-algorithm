@@ -1,7 +1,7 @@
 1- Connect ESP32 with the device
 2- Open Arduino IDE
 3- Connect with the driver
-4- Write the startup method, in which we will identify all the required variables.
-5- Write the loop method, in which we will identify the process that we want it to be repeated.
+4- Write the setup method, in which we will identify all the required variables.
+5- Write the loop method, in which we will identify the process that we want it to be repeated (for example: blink).
 6- Save the code.
 7- Run the code.
